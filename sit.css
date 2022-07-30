@@ -1,0 +1,41 @@
+.diver
+{
+   float: right; 
+   margin-top: -45%;
+}
+h1
+{
+    text-align: center;
+    color: black;
+}
+.inclu
+{
+    margin-left: -12%;
+    background-color: rgba(0, 0, 0, 0.534);
+    /*width: 130%;*/
+}
+ .result1 
+{
+    float: left;
+}
+.result2
+{
+    float: right;
+}
+.fin
+{
+    text-align: center;
+
+}
+form
+{
+      border: 3px solid groove;
+}
+.prix1
+{
+    margin-top: -10%;
+}
+form
+{
+    width: 90%;
+}
